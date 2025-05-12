@@ -16,7 +16,7 @@
 
 ## Documentation
 
-- numfin.linal: 
+### numfin.linal: 
 1. Portfolio as a Vector
 2. CAPM as a Linear Projection
 3. RREF as replicationm, hedging, linear arbitrage, LP Solvers, regression engines.
@@ -24,13 +24,13 @@
 5. Spaces and Subspaces
 6. Inner Products and Orthogonality
 
-- numfin.multivarcal:
+### numfin.multivarcal:
 1. Partial Differential Equations
 2. Double and Triple Integrals
 3. Vector Calculus
 4. Continuity and Differentiability
 
-- numfin.ml:
+### numfin.ml:
 1. Linear and Logistic Regression
 2. GLMs
 3. GLAs
@@ -40,18 +40,18 @@
 7. PCA
 8. EM-Algo
 
-- numfin.stochcalc:
+### numfin.stochcalc:
 
-- numfin.probNstats:
+### numfin.probNstats:
 
-- numfin.CSnSystems:
+### numfin.CSnSystems:
 1. Memory Management
 2. Parallelism/Threading
 3. Systems Architecture
 4. Sockets and IPC
 5. Bit level ops
 
-- numfin.fundamentals:
+### numfin.fundamentals:
 1. Automatic DCF
 2. Equity Report LLM
 3. Annual Report Analyzer
